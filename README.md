@@ -411,5 +411,8 @@ Thank you for watching Getting Started. We invite you to continue with the Free 
 videos to learn more
 
 
+### Feedback Link
+forms.gle/CxQQuQ7FbVV04Qu69
+
 
 
