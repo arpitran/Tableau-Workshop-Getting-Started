@@ -271,8 +271,6 @@ control and select the variables we’re interested in such as Category, Sub-Cat
 Sales, we see Show Me making various suggestions. We can click through a few charts to
 see which one looks best. 
 
-![alt text](https://github.com/arpitran/Tableau-Learning/blob/master/Tableau%20Workshop%20-%20Getting%20Started/Workshop%20Images/filters.PNG)
-
 ### Hierarchies
 There is a hierarchical nature between Category and Sub-Category in our data. In Tableau
 Desktop, we can create hierarchies by simply dragging and dropping fields on top of each 
