@@ -392,24 +392,6 @@ a specific insight of a visualization while still maintaining interactivity.
 
 ![alt text](https://github.com/arpitran/Tableau-Learning/blob/master/Tableau%20Workshop%20-%20Getting%20Started/Workshop%20Images/story%20point%202.png)
 
-### Collaboration
-Now that we have gone from raw data to insight in this workbook, we want to think about
-how to distribute it to others. The most effective way to share a workbook is to publish it
-with Tableau Server or Tableau online. Published workbooks are fully interactive, up-to-date,
-secure, and can be accessed by browser or mobile app.
-To publish, open the Server menu and select Publish Workbook. We could also choose to
-publish the data source, if we only want to publish the data itself for others to use. We can
-publish to a specific project, name the workbook, enter a description, tag the content, choose
-exactly what to publish, and control permissions.
-Once published, interacting with content is easy, and everything is still fully interactive, right
-in the browser. We can subscribe to content to get updates emailed on a set schedule, favorite
-content, and search and filter. With iOS and Android apps, dashboards and data are securely
-available wherever you have a phone or tablet.
-
-### Conclusion
-Thank you for watching Getting Started. We invite you to continue with the Free Training
-videos to learn more
-
 
 ### Feedback Link
 forms.gle/CxQQuQ7FbVV04Qu69
